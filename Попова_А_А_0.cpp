@@ -1,5 +1,5 @@
 ﻿#include <iostream>
-
+//practic 0
 using namespace std; // используем именное пространство
 
 void center(const char* s, int wLine)
